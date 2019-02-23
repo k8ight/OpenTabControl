@@ -1,0 +1,22 @@
+D:\MBTabControl\MBTabControl\bin\Debug\MBTabControl.dll
+D:\MBTabControl\MBTabControl\bin\Debug\MBTabControl.pdb
+D:\MBTabControl\MBTabControl\bin\Debug\MBTabControl.xml
+D:\MBTabControl\MBTabControl\obj\Debug\ResolveAssemblyReference.cache
+D:\MBTabControl\MBTabControl\obj\Debug\MBTabControl.Resources.resources
+D:\MBTabControl\MBTabControl\obj\Debug\MBTabControl.vbproj.GenerateResource.Cache
+D:\MBTabControl\MBTabControl\obj\Debug\MBTabControl.dll
+D:\MBTabControl\MBTabControl\obj\Debug\MBTabControl.xml
+D:\MBTabControl\MBTabControl\obj\Debug\MBTabControl.pdb
+D:\DOT NET PROJECTS\MBTabControl\2010\MBTabControl\obj\Debug\ResolveAssemblyReference.cache
+D:\DOT NET PROJECTS\MBTabControl\2010\MBTabControl\obj\Debug\MBTabControl.dll
+D:\DOT NET PROJECTS\MBTabControl\2010\MBTabControl\bin\Debug\MBTabControl.dll
+D:\DOT NET PROJECTS\MBTabControl\2010\MBTabControl\bin\Debug\MBTabControl.pdb
+D:\DOT NET PROJECTS\MBTabControl\2010\MBTabControl\bin\Debug\MBTabControl.xml
+D:\DOT NET PROJECTS\MBTabControl\2010\MBTabControl\obj\Debug\MBTabControl.xml
+D:\DOT NET PROJECTS\MBTabControl\2010\MBTabControl\obj\Debug\MBTabControl.pdb
+C:\Users\root\Desktop\mbt\MBTabControl\bin\Debug\OpenTABControl.dll
+C:\Users\root\Desktop\mbt\MBTabControl\bin\Debug\OpenTABControl.pdb
+C:\Users\root\Desktop\mbt\MBTabControl\bin\Debug\OpenTABControl.xml
+C:\Users\root\Desktop\mbt\MBTabControl\obj\Debug\OpenTABControl.dll
+C:\Users\root\Desktop\mbt\MBTabControl\obj\Debug\OpenTABControl.xml
+C:\Users\root\Desktop\mbt\MBTabControl\obj\Debug\OpenTABControl.pdb

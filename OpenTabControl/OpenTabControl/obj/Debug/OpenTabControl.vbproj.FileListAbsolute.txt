@@ -1,0 +1,6 @@
+C:\Users\root\Desktop\mbt\MBTabControl\bin\Debug\OpenTABControl.dll
+C:\Users\root\Desktop\mbt\MBTabControl\bin\Debug\OpenTABControl.pdb
+C:\Users\root\Desktop\mbt\MBTabControl\bin\Debug\OpenTABControl.xml
+C:\Users\root\Desktop\mbt\MBTabControl\obj\Debug\OpenTABControl.dll
+C:\Users\root\Desktop\mbt\MBTabControl\obj\Debug\OpenTABControl.xml
+C:\Users\root\Desktop\mbt\MBTabControl\obj\Debug\OpenTABControl.pdb

@@ -1,0 +1,6 @@
+C:\Users\root\Desktop\mbt\OpenTabControl\bin\Release\OpenTABControl.dll
+C:\Users\root\Desktop\mbt\OpenTabControl\bin\Release\OpenTABControl.pdb
+C:\Users\root\Desktop\mbt\OpenTabControl\bin\Release\OpenTABControl.xml
+C:\Users\root\Desktop\mbt\OpenTabControl\obj\Release\OpenTABControl.dll
+C:\Users\root\Desktop\mbt\OpenTabControl\obj\Release\OpenTABControl.xml
+C:\Users\root\Desktop\mbt\OpenTabControl\obj\Release\OpenTABControl.pdb

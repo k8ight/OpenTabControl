@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OpenTABControl
+</name>
+</assembly>
+<members>
+<member name="M:OpenTABControl.OpenTabControl.HideTab(System.Windows.Forms.TabPage)">
+	<param name="page">Page As TabPage</param>
+</member><member name="M:OpenTABControl.OpenTabControl.HideTab(System.Int32)">
+	<param name="index">Index As Integer</param>
+</member><member name="M:OpenTABControl.OpenTabControl.HideTab(System.String)">
+	<param name="key">Key As String</param>
+</member><member name="M:OpenTABControl.OpenTabControl.ShowTab(System.Windows.Forms.TabPage)">
+	<param name="page">Page As TabPage</param>
+</member><member name="M:OpenTABControl.OpenTabControl.ShowTab(System.Int32)">
+	<param name="index">Index As Integer</param>
+</member><member name="M:OpenTABControl.OpenTabControl.ShowTab(System.String)">
+	<param name="key">Key As Strin</param>
+</member><member name="M:OpenTABControl.OpenTabControl.IsValidTabIndex(System.Int32)">
+	<param name="index">Index As Integer</param>
+	<returns>Return Boolean Value</returns>
+</member><member name="M:OpenTABControl.OpenTabControl.OnFontChanged(System.EventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnResize(System.EventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnParentBackColorChanged(System.EventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnParentBackgroundImageChanged(System.EventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.PaintTransparentBackground(System.Drawing.Graphics,System.Drawing.Rectangle)">
+	<param name="graphics">graphics As Graphics</param>
+	<param name="clipRect">ClientRectangle As Rectangle</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnPaint(System.Windows.Forms.PaintEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnParentChanged(System.EventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnSelecting(System.Windows.Forms.TabControlCancelEventArgs)">
+	<param name="e">e As TabControlCancelEventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnMove(System.EventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnControlAdded(System.Windows.Forms.ControlEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnControlRemoved(System.Windows.Forms.ControlEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnSelectedIndexChanged(System.EventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnMouseClick(System.Windows.Forms.MouseEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnTabImageClick(System.Windows.Forms.TabControlEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnTabClosing(System.Windows.Forms.TabControlCancelEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnHScroll(System.Windows.Forms.ScrollEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="M:OpenTABControl.OpenTabControl.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+	<param name="e">e As EventArgs</param>
+</member><member name="T:OpenTABControl.OpenTabControl">
+	<summary>
+OpenTabControl Class
+ </summary>
+	<remarks>Version 1.0</remarks>
+</member>
+</members>
+</doc>
